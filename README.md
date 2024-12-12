@@ -1,6 +1,7 @@
 # sv3tosv5
 This is a tool to migrate Svelte 3.x to Svelte 5
-This will move your project in [Svelte 3](https://github.com/CSIS-iLab/poni-table/tree/0bae129a72c63309d3be115b4daf48197c957553) to [Svelte 5](https://github.com/CSIS-iLab/poni-table)
+
+This will migrate your Svelte 3 [project](https://github.com/CSIS-iLab/poni-table/tree/0bae129a72c63309d3be115b4daf48197c957553) to Svelte 5 [project](https://github.com/CSIS-iLab/poni-table)
 
 
 ## Instructions
